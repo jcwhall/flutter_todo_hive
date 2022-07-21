@@ -8,7 +8,7 @@ This app does the following:
 
 It has been coded for the Web (Chrome) and hasn't been tested on other platforms.
 
-# RUN - In order to run the app:
+# To RUN:
 flutter run
 
 # HIVE (Rebuilding HIVE custom trip adapter)
